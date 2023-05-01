@@ -1,0 +1,14 @@
+/* Created by: Noah Smith
+* Created on: Apr 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-04-HTML-Museum
+*/
+
+h1 {
+	background: red;
+  text-align: center;
+}
+	
+body { 
+	background: orange;
+}
